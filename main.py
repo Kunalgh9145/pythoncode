@@ -1,2 +1,4 @@
-print("hello world")
-print("hello ssadf")
+def hello():
+    print("hello world")
+
+hello()
